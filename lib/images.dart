@@ -1,4 +1,4 @@
 class IMageClass {
-  string images;
-  
+  String images;
+  String type;
 }
