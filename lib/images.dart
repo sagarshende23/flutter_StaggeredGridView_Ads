@@ -1,0 +1,4 @@
+class IMageClass {
+  string images;
+  
+}
